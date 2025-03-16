@@ -1,5 +1,6 @@
 <div align="center">
-  <h1> Emma Burgess | b00rg </h1 | [LinkedIn](https://www.linkedin.com/in/emma-burgesss/) </h1>
+  <h1> Emma Burgess | b00rg </h1>
+  <a href="https://www.linkedin.com/in/emma-bugdfknrgesss/" target="_blank">LinkedIn</a>
 </div>
 
 ## 📌 About Me  

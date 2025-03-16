@@ -49,10 +49,17 @@ Check out my **pinned repositories** for some of my favorite projects!
   <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="49%">
 </div>
 
+<br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b00rg&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b00rg&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b00rg&theme=dracula)
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b00rg&theme=dracula" alt="Repos per Language" width="47%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b00rg&theme=dracula" alt="Most Commit Language" width="47%">
+</div>
+
 
 ---
 

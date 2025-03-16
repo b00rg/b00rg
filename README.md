@@ -47,6 +47,7 @@ Check out my **pinned repositories** for some of my favorite projects!
 <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="47%">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b00rg&theme=dracula)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b00rg&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b00rg&theme=dracula)
 

@@ -3,9 +3,9 @@
 </div>
 
 ## 📌 About Me  
-Hi! I'm Emma, a Computer Science student at Trinity College Dublin interested in **full-stack development**, **low-level programming** and **machine learning**.  
+Hi! I'm Emma, a Computer Science student at Trinity College Dublin.
 
-I enjoy building performant systems, exploring AI, and creating intuitive web applications.  
+I'm interested in **full-stack development**, **low-level programming** and **machine learning**.  
 
 Check out my **pinned repositories** for some of my favorite projects!  
 

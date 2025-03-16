@@ -12,7 +12,7 @@ Check out my **pinned repositories** for some of my favorite projects!
 ---
 
 ## 📬 Connect with Me 
-[LinkedIn](https://www.linkedin.com/in/b00rg](https://www.linkedin.com/in/emma-burgesss/).
+[LinkedIn](https://www.linkedin.com/in/emma-burgesss/).
 --- 
 ## 🚀 Skills  
 

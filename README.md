@@ -26,6 +26,7 @@ Check out my **pinned repositories** for some of my favorite projects!
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">  
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">  
   <img src="https://img.shields.io/badge/ARM%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white">  
+  <img src="https://img.shields.io/badge/VHDL-Hardware_Description-4F4F4F?style=for-the-badge">
 </div>
 
 ### 📊 Data Science & Machine Learning  

@@ -4,6 +4,7 @@
 
 ## 📌 About Me  
 Hi! I'm Emma, a Computer Science student at Trinity College Dublin interested in **full-stack development**, **low-level programming** and **machine learning**.  
+
 I enjoy building performant systems, exploring AI, and creating intuitive web applications.  
 
 Check out my **pinned repositories** for some of my favorite projects!  
@@ -43,8 +44,14 @@ Check out my **pinned repositories** for some of my favorite projects!
 
 ## 📈 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=b00rg&theme=dracula&show_icons=true" alt="stats" width="47%"> <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="50%" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b00rg&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b00rg&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b00rg&theme=dracula)
+ 
 
 ---
 
 ## 📬 Connect with Me 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/emma-burgesss/)
+

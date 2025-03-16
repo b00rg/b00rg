@@ -40,4 +40,4 @@ Check out my **pinned repositories** for some of my favorite projects!
 <img src="https://github-readme-stats.vercel.app/api?username=b00rg&theme=dracula&show_icons=true" alt="stats" width="47%"> <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="50%" />
 
 ## 📬 Connect with Me  
-- [LinkedIn]([[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/emma-burgesss/)](https://www.linkedin.com/in/emma-burgesss/)](https://www.linkedin.com/in/emma-burgesss/)](https://www.linkedin.com/in/emma-burgesss/))  
+- [LinkedIn][https://www.linkedin.com/in/emma-burgesss/](https://www.linkedin.com/in/emma-burgesss/)](https://www.linkedin.com/in/emma-burgesss/)](https://www.linkedin.com/in/emma-burgesss/))  

@@ -15,14 +15,14 @@ Explore my **pinned repositories** for some of my favorite projects!
 
 ## 🚀 Skills
 
-##### 💻 Programming Languages
+#### 💻 Programming Languages
 - Python, Java, C, JavaScript, R
 
-##### 📊 Data Science & Machine Learning 
+#### 📊 Data Science & Machine Learning 
 - Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Scikit-learn, Keras  
 
-##### 🤖Low-Level
+#### 🤖Low-Level
 - VHDL, ARM Assembly  
 
-##### 🔧 Tools & Technologies
+#### 🔧 Tools & Technologies
 - Git, Docker, Apache Spark

@@ -11,6 +11,10 @@ Check out my **pinned repositories** for some of my favorite projects!
 
 ---
 
+## 📬 Connect with Me 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/emma-burgesss/)
+
+--- 
 ## 🚀 Skills  
 
 ### 💻 Programming Languages  
@@ -59,9 +63,3 @@ Check out my **pinned repositories** for some of my favorite projects!
 <br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b00rg&theme=dracula" alt="Profile Details" width="95%">
-
----
-
-## 📬 Connect with Me 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/emma-burgesss/)
-

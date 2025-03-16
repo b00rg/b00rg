@@ -53,23 +53,3 @@ Check out my **pinned repositories** for some of my favorite projects!
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">  
 </div>
-
----
-
-## 📈 GitHub Stats  
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=b00rg&theme=dracula&show_icons=true" alt="GitHub Stats" width="46%">
-  <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="49%">
-</div>
-
-<br>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b00rg&theme=dracula" alt="Repos per Language" width="47.5%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b00rg&theme=dracula" alt="Most Commit Language" width="47.5%">
-</div>
-
-<br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b00rg&theme=dracula" alt="Profile Details" width="95%">

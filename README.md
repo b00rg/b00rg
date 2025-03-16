@@ -28,3 +28,5 @@ You can look at **my pins** for **interesting projects**!
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=b00rg&theme=dracula&show_icons=true" alt="stats" width="47%"> <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="50%" />
+
+[![emma's github stats](https://github-readme-stats.vercel.app/api?username=b00rg)](https://github.com/anuraghazra/github-readme-stats)

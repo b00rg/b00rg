@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="logo.svg" width="20%" />
-  <h1> Emma Burgess | b004g </h1>
+  <h1> Emma Burgess | b00rg </h1>
 </div>
 
-Hey there, this is Melike from Turkey!
+Hello! I'm Emma. 
 
 I am interested in **low-level programming**, **machine learning**, and **fullstack dev**. 
 

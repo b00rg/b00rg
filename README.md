@@ -3,7 +3,7 @@
 </div>
 
 ## 📌 About Me  
-Hi! I'm Emma, a Computer Science student at x
+Hi! I'm Emma, a Computer Science student at Trinity College Dublin.
 
 I'm interested in **full-stack development**, **low-level programming** and **machine learning**.  
 

@@ -8,6 +8,8 @@ I enjoy building performant systems, exploring AI, and creating intuitive web ap
 
 Check out my **pinned repositories** for some of my favorite projects!  
 
+---
+
 ## 🚀 Skills  
 
 ### 💻 Programming Languages  
@@ -37,7 +39,12 @@ Check out my **pinned repositories** for some of my favorite projects!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
 
+---
+
+## 📈 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=b00rg&theme=dracula&show_icons=true" alt="stats" width="47%"> <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="50%" />
 
-## 📬 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/emma-burgesss/)]
+---
+
+## 📬 Connect with Me 
+- [LinkedIn](https://www.linkedin.com/in/emma-burgesss/)

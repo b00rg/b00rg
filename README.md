@@ -52,8 +52,8 @@ Check out my **pinned repositories** for some of my favorite projects!
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b00rg&theme=dracula" alt="Repos per Language" width="50%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b00rg&theme=dracula" alt="Most Commit Language" width="50%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b00rg&theme=dracula" alt="Repos per Language" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b00rg&theme=dracula" alt="Most Commit Language" width="49%">
 </div>
 
 <br>

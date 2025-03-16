@@ -1,19 +1,18 @@
 <div align="center">
-  <h1> Emma Burgess | b00rg </h1>
+  <h1>Emma Burgess | b00rg</h1>
   <a href="https://www.linkedin.com/in/emma-burgesss/" target="_blank">LinkedIn</a>
 </div>
 
 ## 📌 About Me  
-Hi! I'm Emma, a Computer Science student at Trinity College Dublin.
+I'm Emma, a **Computer Science student** at Trinity College Dublin.  
+I’m passionate about **full-stack development**, **low-level programming**, and **machine learning**.  
+Explore my **pinned repositories** for some of my favorite projects!
 
-I'm interested in **full-stack development**, **low-level programming** and **machine learning**.  
+---
 
-Check out my **pinned repositories** for some of my favorite projects!  
+## 🚀 Skills
 
---- 
-## 🚀 Skills  
-
-💻 **Programming Languages**
+### 💻 Programming Languages  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
@@ -25,7 +24,7 @@ Check out my **pinned repositories** for some of my favorite projects!
   <img src="https://img.shields.io/badge/VHDL-Hardware_Description-4F4F4F?style=for-the-badge">
 </div>
 
-📊 **Data Science & Machine Learning**
+### 📊 Data Science & Machine Learning  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">  
@@ -36,12 +35,12 @@ Check out my **pinned repositories** for some of my favorite projects!
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">  
 </div>
 
-🗄 **Databases**
+### 🗄 Databases  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
 </div>
 
-🔧 **Tools & Technologies**
+### 🔧 Tools & Technologies  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  

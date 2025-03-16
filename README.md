@@ -29,4 +29,4 @@ You can look at **my pins** for **interesting projects**!
 
 <img src="https://github-readme-stats.vercel.app/api?username=b00rg&theme=dracula&show_icons=true" alt="stats" width="47%"> <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="50%" />
 
-[![emma's github stats](https://github-readme-stats.vercel.app/api?username=b00rg)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=b00rg&theme=dracula&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)

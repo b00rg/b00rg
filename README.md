@@ -12,11 +12,11 @@ Check out my **pinned repositories** for some of my favorite projects!
 ---
 
 ## 📬 Connect with Me 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https:/gfkjdl
+[LinkedIn](https://www.linkedin.com/in/b00rg](https://www.linkedin.com/in/emma-burgesss/).
 --- 
 ## 🚀 Skills  
 
-💻 **Programming Languages  **
+💻 **Programming Languages**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">  
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
@@ -28,7 +28,7 @@ Check out my **pinned repositories** for some of my favorite projects!
   <img src="https://img.shields.io/badge/VHDL-Hardware_Description-4F4F4F?style=for-the-badge">
 </div>
 
-📊 **Data Science & Machine Learning  **
+📊 **Data Science & Machine Learning**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">  
@@ -39,12 +39,12 @@ Check out my **pinned repositories** for some of my favorite projects!
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">  
 </div>
 
-🗄 **Databases  **
+🗄 **Databases**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
 </div>
 
-🔧 **Tools & Technologies  **
+🔧 **Tools & Technologies**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  

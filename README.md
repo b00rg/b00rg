@@ -27,5 +27,4 @@ You can look at **my pins** for **interesting projects**!
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=b00rg&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-[![melikechan's github stats](https://github-readme-stats.vercel.app/api?username=b00rg)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=b00rg&theme=dracula&show_icons=true" alt="stats" width="47%"> <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="50%" />

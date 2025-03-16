@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Emma Burgess | b00rg</h1>
-  <a [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/emmaburgesss)</a>
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/emmaburgesss)
 </div>
 
 ## 📌 About Me  

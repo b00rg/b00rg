@@ -1,5 +1,6 @@
 <div align="center">
   <h1> Emma Burgess | b00rg </h1>
+  <h4>[LinkedIn](https://www.linkedin.com/in/emma-burgesss/)</h4>
 </div>
 
 ## 📌 About Me  
@@ -9,10 +10,6 @@ I'm interested in **full-stack development**, **low-level programming** and **ma
 
 Check out my **pinned repositories** for some of my favorite projects!  
 
----
-
-## 📬 Connect with Me 
-[LinkedIn](https://www.linkedin.com/in/emma-burgesss/)
 --- 
 ## 🚀 Skills  
 

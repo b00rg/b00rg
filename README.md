@@ -40,8 +40,6 @@ Check out my **pinned repositories** for some of my favorite projects!
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">  
 </div>
 
-🔹 **Specialties:** CNNs, RNNs, LLM fine-tuning  
-
 ### 🗄 Databases  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  

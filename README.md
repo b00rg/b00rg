@@ -45,7 +45,7 @@ Check out my **pinned repositories** for some of my favorite projects!
 ## 📈 GitHub Stats  
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=b00rg&theme=dracula&show_icons=true" alt="GitHub Stats" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=b00rg&theme=dracula&show_icons=true" alt="GitHub Stats" width="46%">
   <img src="https://streak-stats.demolab.com?user=b00rg&theme=dracula" alt="GitHub Streak" width="49%">
 </div>
 

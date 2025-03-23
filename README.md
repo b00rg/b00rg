@@ -15,7 +15,9 @@ Explore my **pinned repositories** for some of my favorite projects!
 
 ## 🚀 Skills
 
-💻 **_Programming Languages:_** Python, Java, C, JavaScript, R
+💻 **_Programming Languages:_** Python, Java, C, R
+
+👾 **_Front End:_** Javascript, CSS, HTML
 
 📊 **_Data Science & Machine Learning:_** Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Scikit-learn, Keras  
 

@@ -24,3 +24,13 @@ Explore my **pinned repositories** for some of my favorite projects!
 🤖 **_Low-Level:_** VHDL, ARM Assembly  
 
 🔧 **_Tools & Technologies:_** Git, Docker, Apache Spark
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=b00rg&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+
+![](https://github-readme-stats.vercel.app/api?username=b00rg&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=b00rg&theme=catppuccin_mocha&hide_border=false)<br/>

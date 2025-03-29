@@ -13,35 +13,23 @@ I love working on **full-stack projects**, diving deep into **low-level programm
 
 ## 🚀 Skills
 
-💻 **_Programming Languages:_** Python, Java, C, R
-
-👾 **_Front End:_** Javascript, CSS, HTML
-
-📊 **_Data Science & Machine Learning:_** Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Scikit-learn, Keras  
-
-🤖 **_Low-Level:_** VHDL, ARM Assembly  
-
-🔧 **_Tools & Technologies:_** Git, Docker, Apache Spark
-
-## 🚀 Skills  
-
 ### 💻 Programming Languages  
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></span>  
-<span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"></span>  
-<span><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"></span>  
-<span><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"></span>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"> 
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"> 
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
 
 ### 👾 Frontend  
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></span>  
-<span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"></span>  
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"></span>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">  
 
 ### 📊 Data Science & Machine Learning  
-<span><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"></span>  
-<span><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"></span>  
-<span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"></span>  
-<span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"></span>  
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"> 
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
 
 ### 🤖 Low-Level  
-<span><img src="https://img.shields.io/badge/VHDL-000000?style=flat" alt="VHDL"></span>  
-<span><img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?style=flat" alt="ARM Assembly"></span>
+<img src="https://img.shields.io/badge/VHDL-000000?style=flat" alt="VHDL"> 
+<img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?style=flat" alt="ARM Assembly">

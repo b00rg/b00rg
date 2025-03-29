@@ -5,11 +5,9 @@
 </div>
 
 ## 📌 About Me  
-I'm Emma, a **Computer Science student** at Trinity College Dublin.  
+Hi! I'm Emma, a **Computer Science student** at Trinity College Dublin.  
 
-I’m passionate about **full-stack development**, **low-level programming**, and **machine learning**.  
-
-Explore my **pinned repositories** for some of my favorite projects!
+I love working on **full-stack projects**, diving deep into **low-level programming**, and exploring **machine learning**.  
 
 ---
 
@@ -24,3 +22,26 @@ Explore my **pinned repositories** for some of my favorite projects!
 🤖 **_Low-Level:_** VHDL, ARM Assembly  
 
 🔧 **_Tools & Technologies:_** Git, Docker, Apache Spark
+
+## 🚀 Skills  
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+
+### 👾 Frontend  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+
+### 📊 Data Science & Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+
+### 🤖 Low-Level  
+![VHDL](https://img.shields.io/badge/VHDL-000000?style=flat)  
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-0091BD?style=flat)  

@@ -18,10 +18,11 @@ I love working on **full-stack projects**, learning about low-level programming,
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"> &nbsp; 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
 
-### 👾 Frontend  
+### 👾 Full Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> &nbsp; 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"> &nbsp; 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">  
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">  &nbsp; 
+<img src="https://img.shields.io/badge/React.js-1572B6?style=flat&logo=css3&logoColor=white" alt="React.js"> &nbsp; 
 
 ### 📊 Data Science & Machine Learning  
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"> &nbsp; 

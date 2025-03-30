@@ -35,5 +35,5 @@ I love working on **full-stack projects**, learning about low-level programming,
 
 
 ### 🤖 Low-Level  
-<img src="https://img.shields.io/badge/VHDL-000000?style=flat" alt="VHDL"> &nbsp; 
-<img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?style=flat" alt="ARM Assembly">
+<img src="https://img.shields.io/badge/VHDL-000000?style=flat&logo=vhdl&logoColor=white" alt="VHDL"> &nbsp; 
+<img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?style=flat&logo=arm&logoColor=white" alt="ARM Assembly">

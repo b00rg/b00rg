@@ -16,7 +16,7 @@ I love working on **full-stack projects**, learning about low-level programming,
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> &nbsp; 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"> &nbsp; 
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"> &nbsp; 
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"> &nbsp;
 
 ### 👾 Full Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> &nbsp; 

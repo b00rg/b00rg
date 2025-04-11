@@ -7,7 +7,7 @@
 ## About Me  
 Hi! I'm Emma, a Computer Science student at Trinity College Dublin.  
 
-I'm interested in full stack development, machine learning, and low-level programming. 
+I'm interested in full stack development and machine learning. 
 
 Feel free to check out my pinned repositories below! 
 
@@ -34,8 +34,3 @@ Feel free to check out my pinned repositories below!
 <img src="https://img.shields.io/badge/ROCm-ED1C24?style=flat&logo=amd&logoColor=white" alt="ROCm"> &nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"> &nbsp; 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"> &nbsp; 
-
-
-### Low-Level  
-<img src="https://img.shields.io/badge/VHDL-000000?style=flat&logo=vhdl&logoColor=white" alt="VHDL"> &nbsp; 
-<img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?style=flat&logo=arm&logoColor=white" alt="ARM Assembly">

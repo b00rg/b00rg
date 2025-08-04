@@ -7,7 +7,7 @@
 ## About Me  
 Hi! I'm Emma, a Computer Science student at Trinity College Dublin.  
 
-I'm interested in full stack development and machine learning. 
+I'm interested in full stack / backend development and machine learning. 
 
 Feel free to check out my pinned repositories below! 
 

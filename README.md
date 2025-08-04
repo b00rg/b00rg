@@ -24,7 +24,6 @@ Feel free to check out my pinned repositories below!
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"> &nbsp;
 <img src="https://img.shields.io/badge/Apache-CA2131?style=flat&logo=apache&logoColor=white" alt="Apache"> &nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> &nbsp;
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"> &nbsp;
 
 ### Data Science & Machine Learning  

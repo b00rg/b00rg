@@ -14,11 +14,21 @@ Feel free to check out my pinned repositories below!
 ---
 ## Skills  
 
-### 💻 Programming Languages  
+### Programming Languages  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> &nbsp; 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java"> &nbsp; 
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"> &nbsp; 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> &nbsp; 
+
+### Backend Development
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"> &nbsp;
+<img src="https://img.shields.io/badge/Apache-CA2131?style=flat&logo=apache&logoColor=white" alt="Apache"> &nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> &nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"> &nbsp;
+<img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=flat&logo=git&logoColor=white" alt="CI/CD"> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"> &nbsp;
+<img src="https://img.shields.io/badge/System_Monitoring-00BFFF?style=flat&logo=prometheus&logoColor=white" alt="Monitoring"> &nbsp;
+
 
 ### Data Science & Machine Learning  
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"> &nbsp; 

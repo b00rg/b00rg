@@ -27,8 +27,7 @@ Feel free to check out my pinned repositories below!
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow/Keras"> &nbsp;
 <img src="https://img.shields.io/badge/ONNX-002C6D?style=flat&logo=onnx&logoColor=white" alt="ONNX"> &nbsp;
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA"> &nbsp;
-<img src="https://img.shields.io/badge/Hugging%20Face-FF6F61?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face"> &nbsp;
-<img src="https://img.shields.io/badge/Fine-Tuning-8A2BE2?style=flat&logo=python&logoColor=white" alt="Fine-Tuning"> &nbsp;
+<img src="https://img.shields.io/badge/Hugging%20Face-F7DF1E?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face"> &nbsp;
 
 ### Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"> &nbsp;

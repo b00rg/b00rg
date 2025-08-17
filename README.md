@@ -14,21 +14,31 @@ Feel free to check out my pinned repositories below!
 ---
 ## Skills  
 
-### Programming Languages  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> &nbsp; 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java"> &nbsp; 
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"> &nbsp; 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> &nbsp; 
+### Backend & Systems
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> &nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java"> &nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"> &nbsp;
+<img src="https://img.shields.io/badge/Bash-FCC624?style=flat&logo=gnu-bash&logoColor=white" alt="Bash/Linux"> &nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"> &nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"> &nbsp;
+<img src="https://img.shields.io/badge/CI%2FCD-6E4FFF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD"> &nbsp;
 
-### Backend Development
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"> &nbsp;
-<img src="https://img.shields.io/badge/Apache-CA2131?style=flat&logo=apache&logoColor=white" alt="Apache"> &nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> &nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"> &nbsp;
+### DevOps & Infra
+<img src="https://img.shields.io/badge/Monitoring-1E90FF?style=flat&logo=prometheus&logoColor=white" alt="Monitoring"> &nbsp;
+<img src="https://img.shields.io/badge/System%20Optimization-FF8C00?style=flat&logo=linux&logoColor=white" alt="System Optimization"> &nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"> &nbsp;
 
-### Data Science & Machine Learning  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"> &nbsp; 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"> &nbsp; 
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA">&nbsp; 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"> &nbsp; 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"> &nbsp; 
+### ML/AI
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"> &nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow/Keras"> &nbsp;
+<img src="https://img.shields.io/badge/ONNX-002C6D?style=flat&logo=onnx&logoColor=white" alt="ONNX"> &nbsp;
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA"> &nbsp;
+<img src="https://img.shields.io/badge/Hugging%20Face-FF6F61?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face"> &nbsp;
+<img src="https://img.shields.io/badge/Fine-Tuning-8A2BE2?style=flat&logo=python&logoColor=white" alt="Fine-Tuning"> &nbsp;
+
+### Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"> &nbsp;
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"> &nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> &nbsp;
+

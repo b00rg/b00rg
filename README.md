@@ -18,7 +18,7 @@ Feel free to check out my pinned repositories below!
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> &nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java"> &nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"> &nbsp;
-<img src="https://img.shields.io/badge/Bash/Linuxn-FF8C00?style=flat&logo=linux&logoColor=white" alt="Bash/Linux"> &nbsp;
+<img src="https://img.shields.io/badge/Bash/Linux-FF8C00?style=flat&logo=linux&logoColor=white" alt="Bash/Linux"> &nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"> &nbsp;
 <img src="https://img.shields.io/badge/CI%2FCD-6E4FFF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD"> &nbsp;
 

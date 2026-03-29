@@ -7,9 +7,7 @@
 ## About Me  
 Hi! I'm Emma, a Computer Science student at Trinity College Dublin.  
 
-I'm interested in backend development, site reliability engineering and machine learning. 
-
-Feel free to check out my pinned repositories below! 
+I'm interested in backend development, site reliability and machine learning. 
 
 ---
 ## Skills  
